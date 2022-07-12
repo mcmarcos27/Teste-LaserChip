@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/24 16:09:32.000.330,=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/06 14:16:18.000.325,=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 00:21:04.000.314,=C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 00:23:29.000.921,C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Hoje\uFormPrincipal.pas</Transaction>
+    <Transaction>2022/07/11 00:23:29.000.921,C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Hoje\uFormPrincipal.dfm</Transaction>
+    <Transaction>2022/07/11 00:23:37.000.361,C:\Users\Marcos Aurelio\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Hoje\Teste.dproj</Transaction>
+    <Transaction>2022/07/11 00:36:44.000.837,=D:\Hoje\Telas\uFormCadastro.pas</Transaction>
+    <Transaction>2022/07/11 00:36:46.000.905,=D:\Hoje\Telas\uFormMaster.pas</Transaction>
+    <Transaction>2022/07/11 00:36:46.000.858,=D:\Hoje\Telas\uFormConsulta.pas</Transaction>
+    <Transaction>2022/07/11 00:37:28.000.446,=D:\Hoje\uFuncoes.pas</Transaction>
+    <Transaction>2022/07/11 00:37:32.000.836,=D:\Hoje\uDmConexao.pas</Transaction>
+    <Transaction>2022/07/11 00:38:54.000.255,D:\Hoje\Telas\uFormCadastro.pas=</Transaction>
+    <Transaction>2022/07/11 00:39:00.000.721,D:\Hoje\Telas\uFormConsulta.pas=</Transaction>
+    <Transaction>2022/07/11 00:39:07.000.423,=D:\Hoje\Telas\uFormCadastro.pas</Transaction>
+    <Transaction>2022/07/11 00:39:14.000.860,=D:\Hoje\Telas\uFormConsulta.pas</Transaction>
+    <Transaction>2022/07/11 00:41:47.000.284,=D:\Hoje\Genericos\uFuncoes.pas</Transaction>
+    <Transaction>2022/07/11 00:43:29.000.703,D:\Hoje\Telas\uFormMaster.pas=</Transaction>
+    <Transaction>2022/07/11 00:43:35.000.873,=D:\Hoje\Genericos\uFormMaster.pas</Transaction>
+    <Transaction>2022/07/11 00:43:45.000.950,=D:\Hoje\Genericos\uFormConsulta.pas</Transaction>
+    <Transaction>2022/07/11 00:43:45.000.903,=D:\Hoje\Genericos\uFormCadastro.pas</Transaction>
+    <Transaction>2022/07/11 00:47:18.000.813,=D:\Hoje\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 00:48:41.000.000,D:\Hoje\uCadCliente.pas=D:\Hoje\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 00:48:41.000.000,D:\Hoje\uCadCliente.dfm=D:\Hoje\Unit1.dfm</Transaction>
+    <Transaction>2022/07/11 00:57:14.000.787,=D:\Hoje\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 00:57:32.000.111,D:\Hoje\uFiltroClientes.dfm=D:\Hoje\Unit1.dfm</Transaction>
+    <Transaction>2022/07/11 00:57:32.000.111,D:\Hoje\uFiltroClientes.pas=D:\Hoje\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 23:52:49.978,=D:\Hoje\Unit2.pas</Transaction>
+    <Transaction>2022/07/11 23:55:27.516,=D:\Hoje\Unit2.pas</Transaction>
+    <Transaction>2022/07/11 23:55:51.250,D:\Hoje\uFiltroEnderecos.pas=D:\Hoje\Unit2.pas</Transaction>
+    <Transaction>2022/07/11 23:55:51.250,D:\Hoje\uFiltroEnderecos.dfm=D:\Hoje\Unit2.dfm</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Genericos"/>
+    <File Path="Genericos\uFormCadastro.pas"/>
+    <File Path="Genericos\uFormCadastro.dfm"/>
+    <File Path="Genericos\uFormConsulta.pas"/>
+    <File Path="Genericos\uFormConsulta.dfm"/>
+    <File Path="Genericos\uFormMaster.pas"/>
+    <File Path="Genericos\uFormMaster.dfm"/>
+    <File Path="Genericos\uFuncoes.pas"/>
+    <File Path="uCadCliente.pas"/>
+    <File Path="uCadCliente.dfm"/>
+    <File Path="uDmConexao.pas"/>
+    <File Path="uDmConexao.dfm"/>
+    <File Path="uFiltroClientes.pas"/>
+    <File Path="uFiltroClientes.dfm"/>
+    <File Path="uFormPrincipal.pas"/>
+    <File Path="uFormPrincipal.dfm"/>
+    <File Path="uFiltroEnderecos.pas"/>
+    <File Path="uFiltroEnderecos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
